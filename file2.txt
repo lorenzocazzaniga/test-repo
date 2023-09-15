@@ -1,3 +1,4 @@
 riga nel file 2
 questa riga è stata aggiunta per il bugfix
 questa riga è stata aggiunta nel main dopo aver creato il ramo stile
+aggiutno lo stile al file2
