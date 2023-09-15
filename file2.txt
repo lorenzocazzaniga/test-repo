@@ -1,1 +1,2 @@
 riga nel file 2
+questa riga è stata aggiunta per il bugfix
